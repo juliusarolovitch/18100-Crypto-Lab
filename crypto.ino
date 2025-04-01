@@ -1,3 +1,6 @@
+// 18-100 Spring 2025 Crypto Lab
+// Last updated April 2025 by Julius Arolovitch (jarolovi@andrew.cmu.edu)
+
 #include <WiFi.h>
 #include <esp_now.h>
 #include <esp_wifi.h>
