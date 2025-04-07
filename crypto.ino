@@ -2,6 +2,7 @@
 // Last updated in April 2025 by Julius Arolovitch (jarolovi@andrew.cmu.edu)
 // Tip: read all code and comments before starting carefully
 // Don't delete existing comments - some are necessary for autograder to not complain :)
+// May your search for hidden messages guide you to new destinations :)
 
 // ==========================================================
 //         AUTOGRADER IDENTIFIER (DO NOT CHANGE)
