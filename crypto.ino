@@ -1,6 +1,6 @@
 // 18-100 Spring 2025 Crypto Lab
 // Last updated in April 2025 by Julius Arolovitch (jarolovi@andrew.cmu.edu)
-// Read all comments & instructions carefully
+// Tip: read all code and comments before starting carefully
 // Don't delete existing comments - some are necessary for autograder to not complain :)
 
 #include <WiFi.h>
